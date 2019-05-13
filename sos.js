@@ -1,2 +1,0 @@
-alert('sos');
-eto tak
