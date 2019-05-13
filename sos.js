@@ -1,3 +1,2 @@
 alert('sos');
-
-// Hussar - mussar
+eto tak
